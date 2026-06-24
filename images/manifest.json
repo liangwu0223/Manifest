@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://liangwu0223.github.io/Manifest/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in liangwu0223/Manifest project"
+        ]
+    },
+    "items": []
+}
